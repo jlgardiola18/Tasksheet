@@ -36,16 +36,6 @@ public class Tasksheet117 {
         }
         else if(num2 == num3){
             System.out.println("2nd & 3rd number are both equal.");
-        }
-
-
-
-
-        
-
-        // System.out.println(num1 + num2 + num3);
-
-    
-        
+        }        
     }
 }
