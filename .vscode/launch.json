@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorldApp",
+            "request": "launch",
+            "mainClass": "HelloWorldApp",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Tasksheet112.Main",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Tasksheet113.Main",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet114",
+            "request": "launch",
+            "mainClass": "Tasksheet114.Tasksheet114",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Task115",
+            "request": "launch",
+            "mainClass": "Tasksheet115.Task115",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet116",
+            "request": "launch",
+            "mainClass": "Tasksheet116.Tasksheet116",
+            "projectName": "Tasksheet_27fdeb38"
+        }
+    ]
+}
