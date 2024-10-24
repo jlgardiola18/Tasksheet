@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tasksheet122",
+            "request": "launch",
+            "mainClass": "Tasksheet122",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
             "name": "Tasksheet120",
             "request": "launch",
             "mainClass": "Tasksheet120.Tasksheet120",
