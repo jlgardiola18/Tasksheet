@@ -4,28 +4,21 @@ public class Main { // tasksheet-1-1-2
 
     public static void main (String[] args){
 
-        int x = 1, y = 2;   // 32423
-          
-        int z = x += y; // x = 3 , y = 2 , z = 3
-        System.out.println(z);
+        int result = 1 + 2; // result is now 3
+        System.out.println(result);
 
-        z = z -= (x -= y); // x = 1 , y = 2, z = 2
-        System.out.println(z);
+        result -= 1; // result is now 2
+        System.out.println(result);
 
-        z = z *= y; // x = 1 , y = 2 , z = 4
-        System.out.println(z);
+        result *= 2; // result is now 4
+        System.out.println(result);
 
-        z = z /= y; // x = 1 , y = 2, z = 2
-        System.out.println(z);
+        result /= 2; // result is now 2
+        System.out.println(result);
 
-        z = z += y += (z *= y += x); // x = 1 , y = 8 , z = 10
-        z = z %= y -= x; // x = 1 , y = 7 , z = 3
-        System.out.println(z);
-
-        // int x = 2, z = 3;
-        // x = x * z;
-        // x *= z;
-        // System.out.println(x);
+        result += 8; // result is now 10
+        result %= 7; // result is now 3
+        System.out.println(result);
 
     }
 }

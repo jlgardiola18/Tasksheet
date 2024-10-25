@@ -36,5 +36,6 @@ public class MathOperations  {
         System.out.println("The Product is " + multiply(num1, num2));
         System.out.println("The Quotient is " + divide(num1, num2));
         
+        
     }
 }
