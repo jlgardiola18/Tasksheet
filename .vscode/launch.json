@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "cons",
+            "request": "launch",
+            "mainClass": "Tasksheet123.cons",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet123",
+            "request": "launch",
+            "mainClass": "Tasksheet123.Tasksheet123",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
             "name": "MathOperations",
             "request": "launch",
             "mainClass": "Tasksheet121.MathOperations",
