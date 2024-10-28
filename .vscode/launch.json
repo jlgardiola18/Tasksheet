@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main$Sum",
+            "request": "launch",
+            "mainClass": "Tasksheet124.Main$Sum",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet124",
+            "request": "launch",
+            "mainClass": "Tasksheet124.Tasksheet124",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
             "name": "cons",
             "request": "launch",
             "mainClass": "Tasksheet123.cons",
