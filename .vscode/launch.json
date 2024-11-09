@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Tasksheet128",
+            "request": "launch",
+            "mainClass": "Tasksheet128.Tasksheet128",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet127",
+            "request": "launch",
+            "mainClass": "Tasksheet127.Tasksheet127",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
+            "name": "Tasksheet126",
+            "request": "launch",
+            "mainClass": "Tasksheet126",
+            "projectName": "Tasksheet_27fdeb38"
+        },
+        {
+            "type": "java",
             "name": "Main$Sum",
             "request": "launch",
             "mainClass": "Tasksheet124.Main$Sum",
