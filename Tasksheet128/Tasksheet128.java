@@ -42,10 +42,6 @@ class Circle extends AbstractShape {
         return radius;
     }
 
-    public String toString() {
-        return "Circle [color=" + color + ", radius=" + radius + "]";
-    }
-
 }
 
 class Rectangle extends AbstractShape {
@@ -68,10 +64,6 @@ class Rectangle extends AbstractShape {
 
     public double getWidth() {
         return width;
-    }
-
-    public String toString() {
-        return "Rectangle [color=" + color + ", length=" + length + ", width=" + width + "]";
     }
 
 }
